@@ -3,14 +3,22 @@ import { useEffect, useState } from 'react';
 import './App.css';
 import SingleCard from './components/SingleCard';
 
+// annoying image imports beceause the build glitched the paths
+import maehle from './images/2646.jpeg';
+import schmeichel from './images/2645.jpeg';
+import dolberg from './images/2665.jpeg';
+import pierre from './images/2657.jpeg';
+import kjaer from './images/2652.jpeg';
+import delaney from './images/2658.jpeg';
+
 
 const cardImages = [
-  { "src": "/img/2646.jpeg", matched: false },
-  { "src": "/img/2651.jpeg", matched: false },
-  { "src": "/img/2652.jpeg", matched: false },
-  { "src": "/img/2657.jpeg", matched: false },
-  { "src": "/img/2658.jpeg", matched: false },
-  { "src": "/img/2665.jpeg", matched: false },
+  { "src": maehle, matched: false },
+  { "src": schmeichel, matched: false },
+  { "src": dolberg, matched: false },
+  { "src": pierre, matched: false },
+  { "src": kjaer, matched: false },
+  { "src": delaney, matched: false },
 ]
 
 function App() {
@@ -96,7 +104,8 @@ function App() {
         ))}
       </div>
       <p className="turns"> forsøg: {turns}</p>
-      <p className='copyright'>Copyright Dansk Boldspil-Union &copy;</p>
+      <p className='copyright'>Ophavsret af Dansk Boldspil-Union &copy;</p>
+
     </div>
   );
 }
