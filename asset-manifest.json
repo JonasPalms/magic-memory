@@ -1,13 +1,20 @@
 {
   "files": {
     "main.css": "/magic-memory/static/css/main.5130f3b4.css",
-    "main.js": "/magic-memory/static/js/main.603dba0c.js",
+    "main.js": "/magic-memory/static/js/main.14d1b86e.js",
+    "static/media/2646.jpeg": "/magic-memory/static/media/2646.c5da8a57ece55c14a8d6.jpeg",
+    "static/media/2657.jpeg": "/magic-memory/static/media/2657.56c1a0f9939bc3319053.jpeg",
+    "static/media/2652.jpeg": "/magic-memory/static/media/2652.8538fc65d888d6a98915.jpeg",
+    "static/media/2658.jpeg": "/magic-memory/static/media/2658.f0e69eb4fb4d4bdde757.jpeg",
+    "static/media/2651.jpeg": "/magic-memory/static/media/2651.2b70e423e64af3a51a05.jpeg",
+    "static/media/2665.jpeg": "/magic-memory/static/media/2665.aba097d13c81abbe308a.jpeg",
+    "static/media/dbu-logo.png": "/magic-memory/static/media/dbu-logo.c72706780653ac74ca40.png",
     "index.html": "/magic-memory/index.html",
     "main.5130f3b4.css.map": "/magic-memory/static/css/main.5130f3b4.css.map",
-    "main.603dba0c.js.map": "/magic-memory/static/js/main.603dba0c.js.map"
+    "main.14d1b86e.js.map": "/magic-memory/static/js/main.14d1b86e.js.map"
   },
   "entrypoints": [
     "static/css/main.5130f3b4.css",
-    "static/js/main.603dba0c.js"
+    "static/js/main.14d1b86e.js"
   ]
 }
