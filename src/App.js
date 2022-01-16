@@ -4,8 +4,8 @@ import './App.css';
 import SingleCard from './components/SingleCard';
 
 // annoying image imports beceause the build glitched the paths
-import maehle from './images/2646.jpeg';
-import schmeichel from './images/2645.jpeg';
+import maehle from './images/2651.jpeg';
+import schmeichel from './images/2646.jpeg';
 import dolberg from './images/2665.jpeg';
 import pierre from './images/2657.jpeg';
 import kjaer from './images/2652.jpeg';
